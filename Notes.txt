@@ -1,1 +1,1 @@
-Created FITHUB using Java Swing GUI
+Updated FITHUB using Java Swing GUI with SetGoal and Connected to Mysql Database
